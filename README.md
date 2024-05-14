@@ -1,0 +1,1 @@
+This programming assignment has multiple parts and is the last of three stages of a Pacman project, originally developed by Dr. Dan Klein and Dr. Pieter Abbeel of Univ. California Berkeley, and modified by Professor Wan Bae in 2021.  We gratefully acknowledge their contributions as well as those of many others who made their course materials freely available. 
